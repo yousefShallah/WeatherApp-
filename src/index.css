@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+    background: #B3E5FC;
+}
+.App{
+    width: 50%;
+    height: 730px;
+    text-align: center;
+    background: #00796B;
+    margin: 50px auto;
+    border-radius: 5px;
+    padding: 20px;
+}
+.App img {
+    width: 70%;
+    height: 200px;
+    border-radius: 5px;
+}
+.App h1{
+    font-size: 20px;
+    color: #B2DFDB;
+    font-weight: bold;
+}
+.App h2{
+    text-align: left;
+    margin-left: 9%;
+}
+.formClass{
+    width: 80%;
+    height: 100px;
+    margin: 25px auto;
+}
+.formClass input{
+    width: 100%;
+    margin: 10px auto;
+    padding: 10px;
+    float: left;
+    border: 0px;
+    border-radius: 2px;
+}
+.btnDiv{
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+}
+.formClass button{
+    width: 50%;
+    padding: 16px;
+    border: 0px;
+    margin: 20px auto;
+    border-radius: 5px;
+    background: #2196F3;
+    text-align: center;
+}
+
+.detials{
+    width: 80%;
+    margin: auto;
+}
+
+.info-tittle{
+    text-align: left;
+    font-size: 15px;
+}
